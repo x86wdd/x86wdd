@@ -15,7 +15,7 @@ I'm always eager to learn new technologies and improve my skills. I specialize i
 
 ## 📂 Projects
 
-- [Project 1]([link](https://github.com/ryuji4real/minecraft-website/)) – A description of your first project.
+- [Project 1](https://github.com/ryuji4real/minecraft-website/) – A description of your first project.
   
 ## 📬 Contact Me
 
