@@ -15,7 +15,7 @@ I'm always eager to learn new technologies and improve my skills. I specialize i
 
 ## 📂 Projects
 
-- [Minecraft Website](https://github.com/ryuji4real/minecraft-website/) – A description of your first project.
+- [Minecraft Website](https://github.com/ryuji4real/minecraft-website/) – A simple and customizable website template for Minecraft servers, designed to showcase essential server details like staff, rules, and FAQ. Ideal for creating a professional online presence with ease.
   
 ## 📬 Contact Me
 
