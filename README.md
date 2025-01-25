@@ -19,4 +19,4 @@ I'm always eager to learn new technologies and improve my skills. I specialize i
   
 ## 📬 Contact Me
 
-Feel free to reach out via email at [xffryuji1337@gmail.com] or follow me on my [Twitter](https://x.com/belikeryuji) and [GitHub](https://github.com/ryuji4real).
+Feel free to reach out via email at [xffdev1337@gmail.com] or follow me on my [Twitter](https://x.com/belikeryuji) and [GitHub](https://github.com/ryuji4real).
