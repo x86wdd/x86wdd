@@ -4,14 +4,6 @@
 
 <div align="center" style="font-family: Arial, sans-serif; color: #555;">
 
-  <h4>• 🔭 Currently working on various web development, game design, and cybersecurity projects.<br><br>
-  • 🌱 Always learning new technologies, currently focusing on C++ and ethical hacking.<br><br>
-  • 👯 Open to collaborating on innovative projects and security research.<br><br>
-  • 🤝 Looking for partners to enhance my upcoming projects.<br><br>
-  • 📫 Contact me at: <a href="mailto:xffdev1337@gmail.com" style="color: #007bff; text-decoration: none;">Email Me</a>.<br><br>
-  • 📄 Skilled in front-end development and cybersecurity.<br><br>
-  • ⚡ Fun fact: I enjoy problem-solving challenges and CTF competitions!</h4>
-
   <h3 style="color: #333;">Programming Languages 👨‍💻</h3>
   
   <div>
@@ -33,7 +25,6 @@
   <h3 style="color: #333;">Current Projects 🚀</h3>
   
   <div>
-    <p>Check out my latest projects on GitHub:</p>
     <a href="https://github.com/ryuji4real?tab=repositories" style="color: #007bff; text-decoration: none;">My GitHub Repositories</a>
   </div>
 
