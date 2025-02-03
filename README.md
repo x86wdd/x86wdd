@@ -1,22 +1,45 @@
-# Hello, I'm [xff] 👋
+<div align="center">
+  <img height="150" src="https://techisor.com/wp-content/uploads/2022/02/Software-development-2.png"  />
+</div>
 
-Welcome to my personal portfolio! I'm a passionate developer and cybersecurity enthusiast, currently working on various projects related to web development, game design, and security.
+###
 
-## 🧑‍💻 About Me
+<h2 align="center" style="font-family: Arial, sans-serif; color: #333;">Skills & Technologies</h2>
 
-I'm always eager to learn new technologies and improve my skills. I specialize in web development with a focus on front-end, back-end, and server management. In addition to my technical skills, I have a strong interest in **cybersecurity** and **ethical hacking**.
+###
 
-## 🛠 Technologies & Tools
+<div style="font-family: Arial, sans-serif; color: #555;">
 
-- **Languages**: HTML, CSS, JavaScript, Python, etc.
-- **Frameworks**: React, Node.js, Django, etc.
-- **Tools**: Git, Docker, Nginx, Apache, etc.
-- **Databases**: MySQL, MongoDB, PostgreSQL
+  <h4 align="left">• 🔭 Currently working on various web development, game design, and cybersecurity projects.<br><br>
+  • 🌱 Always learning new technologies, currently focusing on C++ and ethical hacking.<br><br>
+  • 👯 Open to collaborating on innovative projects and security research.<br><br>
+  • 🤝 Looking for partners to enhance my upcoming projects.<br><br>
+  • 📫 Contact me at: <a href="mailto:xffdev1337@gmail.com" style="color: #007bff; text-decoration: none;">Email Me</a>.<br><br>
+  • 📄 Skilled in front-end & back-end development, cybersecurity, and server management.<br><br>
+  • ⚡ Fun fact: I enjoy problem-solving challenges and CTF competitions!</h4>
 
-## 📂 Projects
-
-- [Minecraft Website](https://github.com/ryuji4real/minecraft-website/) – A simple and customizable website template for Minecraft servers, designed to showcase essential server details like staff, rules, and FAQ. Ideal for creating a professional online presence with ease.
+  <h3 align="left" style="color: #333;">Programming Languages 👨‍💻</h3>
   
-## 📬 Contact Me
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" height="40" alt="languages logos" />
+  </div>
 
-Feel free to reach out via email at [xffdev1337@gmail.com] or follow me on my [Twitter](https://x.com/belikeryuji) and [GitHub](https://github.com/ryuji4real).
+  <h3 align="left" style="color: #333;">Frameworks & Tools 🛠️</h3>
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,django,git,docker,nginx,apache" height="40" alt="frameworks and tools logos" />
+  </div>
+
+  <h3 align="left" style="color: #333;">Database Technologies 💾</h3>
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="40" alt="database logos" />
+  </div>
+
+  <h3 align="left" style="color: #333;">Social Networks 🌐</h3>
+  
+[![Discord](https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Discord.png)](https://discordlookup.com/user/187986767696101385)
+[![Twitter](https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Twitter.png)](https://twitter.com/belikeryuji)
+[![GitHub](https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Github.png)](https://github.com/ryuji4real)
+
+</div>
