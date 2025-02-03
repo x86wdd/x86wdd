@@ -36,7 +36,7 @@
   
   <div>
     <a href="https://github.com/ryuji4real/minecraft-website" style="color: #007bff; text-decoration: none;">
-      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/minecraft.png" height="40" alt="Minecraft" /> Minecraft Server Template
+      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Minecraft.png" height="40" alt="Minecraft" /> Minecraft Server Template
     </a><br>
     <a href="https://github.com/ryuji4real?tab=repositories" style="color: #007bff; text-decoration: none;">My GitHub Repositories</a>
   </div>
