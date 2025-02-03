@@ -35,13 +35,14 @@
   <h3 style="color: #333;">Current Projects 🚀</h3>
   
   <div>
+    <a href="https://github.com/ryuji4real/minecraft-website" style="color: #007bff; text-decoration: none;">Minecraft Server Template</a><br>
     <a href="https://github.com/ryuji4real?tab=repositories" style="color: #007bff; text-decoration: none;">My GitHub Repositories</a>
   </div>
 
   <h3 style="color: #333;">Social Networks 🌐</h3>
   
   <div>
-    <a href="https://discordlookup.com/user/187986767696101385">
+    <a href="https://discordlookup.com/user/248852859687403520">
       <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Discord.png" height="40" alt="Discord" />
     </a>
     <a href="https://twitter.com/belikeryuji">
