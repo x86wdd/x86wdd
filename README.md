@@ -42,13 +42,16 @@
   
   <div>
     <a href="https://discordlookup.com/user/187986767696101385">
-      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Discord.png" height="40" alt="Discord" />
+      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Discord.png" height="40" alt="Discord" />
     </a>
     <a href="https://twitter.com/belikeryuji">
-      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Twitter.png" height="40" alt="Twitter" />
+      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Twitter.png" height="40" alt="Twitter" />
+    </a>
+        <a href="https://www.instagram.com/swatteur/">
+      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Instagram.png" height="40" alt="Instagram" />
     </a>
     <a href="https://github.com/ryuji4real">
-      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Github.png" height="40" alt="GitHub" />
+      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Telegram.png" height="40" alt="Telegram" />
     </a>
   </div>
 
