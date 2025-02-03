@@ -1,16 +1,10 @@
-<div align="center">
-  <img height="150" src="https://techisor.com/wp-content/uploads/2022/02/Software-development-2.png"  />
-</div>
-
-###
-
 <h2 align="center" style="font-family: Arial, sans-serif; color: #333;">Skills & Technologies</h2>
 
 ###
 
-<div style="font-family: Arial, sans-serif; color: #555;">
+<div align="center" style="font-family: Arial, sans-serif; color: #555;">
 
-  <h4 align="left">• 🔭 Currently working on various web development, game design, and cybersecurity projects.<br><br>
+  <h4>• 🔭 Currently working on various web development, game design, and cybersecurity projects.<br><br>
   • 🌱 Always learning new technologies, currently focusing on C++ and ethical hacking.<br><br>
   • 👯 Open to collaborating on innovative projects and security research.<br><br>
   • 🤝 Looking for partners to enhance my upcoming projects.<br><br>
@@ -18,35 +12,43 @@
   • 📄 Skilled in front-end development and cybersecurity.<br><br>
   • ⚡ Fun fact: I enjoy problem-solving challenges and CTF competitions!</h4>
 
-  <h3 align="left" style="color: #333;">Programming Languages 👨‍💻</h3>
+  <h3 style="color: #333;">Programming Languages 👨‍💻</h3>
   
-  <div align="left">
+  <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" height="40" alt="languages logos" />
   </div>
 
-  <h3 align="left" style="color: #333;">Frameworks & Tools 🛠️</h3>
+  <h3 style="color: #333;">Frameworks & Tools 🛠️</h3>
 
-  <div align="left">
+  <div>
     <img src="https://skillicons.dev/icons?i=react,git,docker" height="40" alt="frameworks and tools logos" />
   </div>
 
-  <h3 align="left" style="color: #333;">Database Technologies 💾</h3>
+  <h3 style="color: #333;">Database Technologies 💾</h3>
 
-  <div align="left">
+  <div>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" alt="database logos" />
   </div>
 
-  <h3 align="left" style="color: #333;">Current Projects 🚀</h3>
+  <h3 style="color: #333;">Current Projects 🚀</h3>
   
-  <div align="left">
+  <div>
     <p>Check out my latest projects on GitHub:</p>
     <a href="https://github.com/ryuji4real?tab=repositories" style="color: #007bff; text-decoration: none;">My GitHub Repositories</a>
   </div>
 
-  <h3 align="left" style="color: #333;">Social Networks 🌐</h3>
+  <h3 style="color: #333;">Social Networks 🌐</h3>
   
-[![Discord](https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Discord.png)](https://discordlookup.com/user/187986767696101385)
-[![Twitter](https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Twitter.png)](https://twitter.com/belikeryuji)
-[![Telegram](https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Telegram.png)](https://github.com/ryuji4real)
+  <div>
+    <a href="https://discordlookup.com/user/187986767696101385">
+      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Discord.png" height="40" alt="Discord" />
+    </a>
+    <a href="https://twitter.com/belikeryuji">
+      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Twitter.png" height="40" alt="Twitter" />
+    </a>
+    <a href="https://github.com/ryuji4real">
+      <img src="https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Github.png" height="40" alt="GitHub" />
+    </a>
+  </div>
 
 </div>
