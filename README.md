@@ -25,7 +25,7 @@
   <h3 style="color: #333;">Frameworks & Tools 🛠️</h3>
 
   <div>
-    <img src="https://skillicons.dev/icons?i=react,git,docker" height="40" alt="frameworks and tools logos" />
+    <img src="https://skillicons.dev/icons?i=react,git,docker,bootstrap,tailwind,sass,next,django,nodejs" height="40" alt="frameworks and tools logos" />
   </div>
 
   <h3 style="color: #333;">Database Technologies 💾</h3>
