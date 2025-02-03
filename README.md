@@ -38,8 +38,8 @@
 
   <h3 align="left" style="color: #333;">Social Networks 🌐</h3>
   
-[![Discord](https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Discord.png)](https://discordlookup.com/user/187986767696101385)
-[![Twitter](https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Twitter.png)](https://twitter.com/belikeryuji)
-[![GitHub](https://github.com/ryuji4real/ryuji4real/tree/main/assets/images/network/Github.png)](https://github.com/ryuji4real)
+[![Discord](https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Discord.png)](https://discordlookup.com/user/187986767696101385)
+[![Twitter](https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Twitter.png)](https://twitter.com/belikeryuji)
+[![Telegram](https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Telegram.png)](https://github.com/ryuji4real)
 
 </div>
