@@ -19,7 +19,7 @@
   <h3 style="color: #333;">Programming Languages 👨‍💻</h3>
   
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c,rust,php,java,c#,golang" height="40" alt="languages logos" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c,rust,php,java,cs,go" height="40" alt="languages logos" />
   </div>
 
   <h3 style="color: #333;">Frameworks & Tools 🛠️</h3>
