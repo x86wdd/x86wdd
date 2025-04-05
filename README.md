@@ -34,29 +34,4 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" alt="database logos" />
   </div>
 
-  <h3 style="color: #333;">Current Projects 🚀</h3>
-  
-  <div>
-    <a href="https://github.com/ryuji4real/minecraft-website" style="color: #007bff; text-decoration: none;">
-      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Minecraft.png" height="40" alt="Minecraft" />
-    </a><br>
-  </div>
-
-  <h3 style="color: #333;">Social Networks 🌐</h3>
-  
-  <div>
-    <a href="https://discordlookup.com/user/248852859687403520">
-      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
-    </a>
-    <a href="https://twitter.com/belikeryuji">
-      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
-    </a>
-        <a href="https://www.instagram.com/swatteur/">
-      <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-    </a>
-    <a href="https://github.com/ryuji4real">
-      <img src="https://github.com/ryuji4real/ryuji4real/blob/main/assets/images/network/Telegram.png" height="40" alt="Telegram" />
-    </a>
-  </div>
-
 </div>
