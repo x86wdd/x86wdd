@@ -1,37 +1,36 @@
-###
+# Salut, je suis wdd (aka xff & Ryuji) 👋
 
-<h2 align="center" style="font-family: Arial, sans-serif; color: #333;">Skills & Technologies</h2>
+Full-Stack Developer | Programmer | Cybersecurity Enthusiast  
+Bienvenue sur mon profil GitHub ! Je suis passionné par le développement web, la programmation et la cybersécurité. Actuellement, je travaille sur des projets variés et j’explore de nouvelles technologies.
 
-###
+---
 
-<div style="font-family: Arial, sans-serif; color: #555;">
-  <h4 align="left">• 🔭 Currently working on various web development, game design, and cybersecurity projects.<br><br>
-  • 🌱 Always learning new technologies, currently focusing on C++ and ethical hacking.<br><br>
-  • 👯 Open to collaborating on innovative projects and security research.<br><br>
-  • 🤝 Looking for partners to enhance my upcoming projects.<br><br>
-  • 📫 Contact me at: <a href="mailto:xffdev1337@gmail.com" style="color: #007bff; text-decoration: none;">Email Me</a>.<br><br>
-  • 📄 Skilled in front-end development and cybersecurity.<br><br>
-  • ⚡ Fun fact: I enjoy problem-solving challenges and CTF competitions!</h4>
-</div>
+## À propos de moi
 
-<div align="center" style="font-family: Arial, sans-serif; color: #555;">
+- 🔭 **Projets en cours** : FlexShell, VulnForge, LockSmith, CodeSentry, TraceWiper, CryptGuard, OrgaTech, LearnCode.  
+- 🌱 **En apprentissage** : Perl, Kotlin, Flask, Vue.js, Angular.  
+- 👯 **Collaboration** : Ouvert aux projets innovants et aux recherches en sécurité.  
+- 📫 **Contact** : [xffdev1337@gmail.com](mailto:xffdev1337@gmail.com).  
+- 🌐 **Portfolio** : [wdd-dev.fr](https://wdd-dev.fr).  
+- ⚡ **Fun fact** : J’adore relever des défis de résolution de problèmes et participer à des compétitions CTF !
 
-  <h3 style="color: #333;">Programming Languages 👨‍💻</h3>
-  
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c,rust,php,java,cs,go" height="40" alt="languages logos" />
-  </div>
+---
 
-  <h3 style="color: #333;">Frameworks & Tools 🛠️</h3>
+## Compétences & Technologies
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=react,git,docker,bootstrap,tailwind,sass,next,django,nodejs,typescript" height="40" alt="frameworks and tools logos" />
-  </div>
+### Langages de programmation
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Rust](https://skillicons.dev/icons?i=rust) ![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Go](https://skillicons.dev/icons?i=go)
 
-  <h3 style="color: #333;">Database Technologies 💾</h3>
+### Frameworks & Bibliothèques
+![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Sass](https://skillicons.dev/icons?i=sass) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite.js](https://skillicons.dev/icons?i=vite)
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" alt="database logos" />
-  </div>
+### Outils & Technologies
+![Docker](https://skillicons.dev/icons?i=docker) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Powershell](https://skillicons.dev/icons?i=powershell)
 
-</div>
+### En apprentissage
+![Perl](https://skillicons.dev/icons?i=perl) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Flask](https://skillicons.dev/icons?i=flask) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Angular](https://skillicons.dev/icons?i=angular)
+
+---
+
+## Me suivre
+N’hésite pas à me contacter ou à explorer mes travaux. À bientôt pour une collaboration ou un échange technique !
