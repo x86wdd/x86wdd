@@ -7,12 +7,12 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement web, 
 
 ## À propos de moi
 
-- 🔭 **Projets en cours** : FlexShell, VulnForge, LockSmith, CodeSentry, TraceWiper, CryptGuard, OrgaTech, LearnCode.  
+- 🔭 **Projets en cours** : 
 - 🌱 **En apprentissage** : Perl, Kotlin, Flask, Vue.js, Angular.  
 - 👯 **Collaboration** : Ouvert aux projets innovants et aux recherches en sécurité.  
-- 📫 **Contact** : [xffdev1337@gmail.com](mailto:xffdev1337@gmail.com).  
+- 📫 **Contact** : 
 - 🌐 **Portfolio** : [wdd-dev.fr](https://wdd-dev.fr).  
-- ⚡ **Fun fact** : J’adore relever des défis de résolution de problèmes et participer à des compétitions CTF !
+- ⚡ **Fun fact** : J’adore relever des défis de résolution de problèmes !
 
 ---
 
