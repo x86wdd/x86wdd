@@ -1,4 +1,4 @@
-# Salut, je suis wdd (aka xff & Ryuji) 👋
+# Salut, je suis wdd (aka xff) 👋
 
 Full-Stack Developer | Programmer | Cybersecurity Enthusiast  
 Bienvenue sur mon profil GitHub ! Je suis passionné par le développement web, la programmation et la cybersécurité. Actuellement, je travaille sur des projets variés et j’explore de nouvelles technologies.
